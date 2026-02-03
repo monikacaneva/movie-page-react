@@ -13,21 +13,22 @@ The app allows users to browse movies, manage favorites, and interact with a cle
 ## Technologies Used
 - React
 - Vite
-- JavaScript (ES6+)
+- JavaScript
 - CSS
 - Context API
 
 ## Project Structure
 src/
-├─ components/ # Reusable UI components
-├─ pages/ # Application pages (Home, Favorites)
-├─ contexts/ # Global state (MovieContext)
-├─ services/ # API logic
-├─ css/ # Styling
-└─ main.jsx # App entry point
+ ├─ components/ # Reusable UI components
+ ├─ pages/ # Application pages (Home, Favorites)
+ ├─ contexts/ # Global state (MovieContext)
+ ├─ services/ # API logic
+ ├─ css/ # Styling
+ └─ main.jsx # App entry point
 
 ## Installation & Setup
-1. Clone the repository:
+
+1.Clone the repository:
 git clone https://github.com/monikacaneva/movie-page-react.git
 
 2.Navigate to the project folder:
